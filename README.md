@@ -2,8 +2,7 @@
 # UI FLUTTER
 
 # Screenshots
-![Screenshot_20221215-170330](https://user-images.githubusercontent.com/108835667/207850557-a627e894-bb15-498a-8fb1-61c8ed14a827.jpg)
-
+![Screenshot_20221215-170330](https://user-images.githubusercontent.com/108835667/207850767-c214c56e-8d62-45a4-8e99-a7dcf9fac09d.jpg)
 
 # 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Rajat-04)
